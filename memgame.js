@@ -1,7 +1,7 @@
 /*
 Name: MEMORY GAME
 Version: 0.1
-Author: Te—filo Couto (undertuga[at]gmail[dot]com)
+Author: Teofilo Couto (undertuga[at]gmail[dot]com)
 */
 
 
